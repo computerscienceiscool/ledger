@@ -6,7 +6,7 @@ Run `ledger -f ledger.dat bal` to see a balance report.
 
 ## Net Worth
 
-You can show specific accounts by applying a filter, which is case senstive.
+You can show specific accounts by applying a filter, which is case sensitive.
 For example, let's get our net worth,
 run `ledger -f ledger.dat bal Assets Liabilities`
 
